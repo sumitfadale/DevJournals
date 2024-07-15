@@ -46,7 +46,6 @@ public static void print(int number)
 		System.out.println("Print even number using filter and lambda expression 2nd way");
 		 numbers.stream()
 		        .filter(a -> a%2==0) // Lambda Expression // instead of creating a method just pass parameter of method. a is a parameter of method.
-		        .forEach(System.out::println);
-	 
+		        .forEach(System.out::println);	 
 	}
 }
