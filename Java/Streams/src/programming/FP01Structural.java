@@ -18,3 +18,13 @@ public class FP01Structural {
 	}
 
 }
+
+//--------------------------------------output of above code----------------------------------
+
+//traditional way to print a numbers.
+//12
+//11
+//34
+//54
+//23
+//53

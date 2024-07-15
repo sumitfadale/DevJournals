@@ -49,3 +49,30 @@ public static void print(int number)
 		        .forEach(System.out::println);	 
 	}
 }
+
+
+
+//--------------------------------------output of above code----------------------------------
+
+//Functional way -1
+//12
+//11
+//34
+//54
+//23
+//53
+//Functional way -2
+//12
+//11
+//34
+//54
+//23
+//53
+//Print even number using filter 1st way
+//12
+//34
+//54
+//Print even number using filter and lambda expression 2nd way
+//12
+//34
+//54

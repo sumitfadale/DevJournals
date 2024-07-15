@@ -27,3 +27,25 @@ public class FP01StructuralExercize {
 	}
 
 }
+
+//--------------------------------------output of above code----------------------------------
+//Print odd numbers
+//1
+//33
+//23
+//67
+//27
+//----------------------------------------
+//Pring Couresr which contains Spring word
+//SpringMVC
+//SpringBoot
+//----------------------------------------
+//Print coureses length greater than 4
+//Java
+//Python
+//Appian
+//Kafka
+//Angular
+//React
+//SpringMVC
+//SpringBoot

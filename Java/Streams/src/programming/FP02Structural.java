@@ -29,3 +29,30 @@ public class FP02Structural {
 	}
 
 }
+
+// --------------------------------------output of above code----------------------------------
+//Print square of even numbers
+//16
+//4
+//196
+//3136
+//1024
+//----------------------------------------
+//Print cube of odd numbers
+//1
+//35937
+//12167
+//300763
+//19683
+//----------------------------------------
+//Print no of character for each courses
+//Java 4
+//AWS 3
+//Python 6
+//Appian 6
+//Git 3
+//Kafka 5
+//Angular 7
+//React 5
+//SpringMVC 9
+//SpringBoot 10
